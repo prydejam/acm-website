@@ -6,10 +6,10 @@
   president: Andrew Riordan
   email: riordana@purdue.edu
   desc: SIGAI is a group of people interested in discussing artificial intelligence and working on projects related to all aspects of artificial intelligence.
-  meeting-room: Discord
-  meeting-day: Thursday (Bi-Weekly)
-  meeting-time: 8:00PM
-
+  meeting-room: https://discord.gg/DqRySwyPD2 
+  meeting-day: Triweekly with project teams designating their own day
+  meeting-time: Triweekly with project teams designating their own time
+  
 - name: SIGAPP
   i18n: sigapp
   img: /static/assets/img/landing/sig-logos/sigapp_logo.png
@@ -17,7 +17,7 @@
   president: Josh Kassman
   email: jkassman@purdue.edu
   desc: SIGAPP is centered on full stack mobile development including Android, iOS, and scalable cloud backends.
-  meeting-room: Discord
+  meeting-room: https://discord.gg/XtRXQ7dm
   meeting-day: Tuesday, Thursday
   meeting-time: 7:00PM
 
@@ -28,7 +28,7 @@
   president: Christopher Ridenour
   email: ridenou1@purdue.edu
   desc: SIGBOTS is focused on competition in the VEX U Robotics Competition and maintaining PROS, an open-source Robotics Operating System.
-  meeting-room: HAAS G064
+  meeting-room: HAAS G064, https://discord.gg/JsBepBma
   meeting-day: Monday, Tuesday, Wednesday, Thursday
   meeting-time: 7:00PM
 
